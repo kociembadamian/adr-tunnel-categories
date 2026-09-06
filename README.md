@@ -2,7 +2,7 @@
 
 Kategorie tuneli w Unii Europejskiej oraz państwach-sygnatariuszach Umowy ADR:
 
-Otwartoźródłowa baza tuneli objętych ograniczeniami ADR (kategorie C, D, E) w Unii Europejskiej oraz krajach-sygnatariuszach Umowy ADR. Dane te pochodzą w dużej części z serwisów OpenStreetMap oraz w nieznacznej części ze strony internetowej UNECE (Europejska Komisja Gospodarcza ONZ).
+Otwartoźródłowa baza **około 500 tuneli** objętych ograniczeniami ADR (kategorie C, D, E) w Unii Europejskiej oraz krajach-sygnatariuszach Umowy ADR. Dane te pochodzą w dużej części z serwisów OpenStreetMap oraz w nieznacznej części ze strony internetowej UNECE (Europejska Komisja Gospodarcza ONZ).
 
 Baza jest udostępniona na licencji Open Database License (ODbL) v1.0
 
